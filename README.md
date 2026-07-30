@@ -51,7 +51,6 @@ Currently seeking **internships & entry-level roles** in Cloud · AI/ML · DevOp
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-FF6C37?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### 🤖 AI / ML
@@ -63,7 +62,6 @@ Currently seeking **internships & entry-level roles** in Cloud · AI/ML · DevOp
 ![NLP](https://img.shields.io/badge/NLP-Basics-76B900?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 💻 Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
