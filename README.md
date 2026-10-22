@@ -18,7 +18,7 @@ Currently seeking **internships & entry-level roles** in Cloud · AI/ML · DevOp
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deepak--mlops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak-mlops)
-![Profile Views](https://komarev.com/ghpvc/?username=deepak-mlops&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=deepak-mlops&style=for-the-badge&color=blueviolet) 
 
 </div>
 
