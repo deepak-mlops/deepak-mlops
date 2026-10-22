@@ -14,6 +14,7 @@ Currently seeking **internships & entry-level roles** in Cloud · AI/ML · DevOp
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Otari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-otari-14b165313)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deepak--mlops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak-mlops)
